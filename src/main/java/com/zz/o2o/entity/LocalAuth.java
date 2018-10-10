@@ -9,6 +9,11 @@ public class LocalAuth {
     private Date lastEditTime;
     private PersonInfo personInfo;
 
+    /**
+     * 但是放大镜看多少风景看电视看风景的索科洛夫短斤少两开发的监考老师放假克里斯朵夫节快乐圣诞节快乐方式卢静
+     * @return
+     */
+
     public Long getLocalAuthId() {
         return localAuthId;
     }
